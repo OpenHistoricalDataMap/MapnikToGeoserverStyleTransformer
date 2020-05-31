@@ -1,7 +1,9 @@
 # MapnikToGeoserverStyleTransformer
 
 Author: Leon Lüttger   
-Email: Leon.Luettger@Student.HTW-Berlin.de
+Github: [Lueton](https://github.com/Lueton)  
+Email: Leon.Luettger@Student.HTW-Berlin.de  
+[Github Projekt](https://github.com/Lueton/MapnikToGeoserverStyleTransformer)
 
 ### Wichtige Ressourcen
 * [Bachelor Arbeit Ebert](http://www.sharksystem.net/htw/FP_ICW_BA_MA/2019_Ebert_Bachelorarbeit.pdf)
